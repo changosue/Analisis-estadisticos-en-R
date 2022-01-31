@@ -1,4 +1,5 @@
 # Analisis-estadisticos-en-R
+## "Nunca hagas un análisis más complicado que lo que debería ser"
 
 R es el lenguaje más popular en el mundo de la ciencia de datos. Se utiliza ampliamente para analizar datos estructurados y no estructurados; esto ha convertido a R en el lenguaje estándar para realizar operaciones estadísticas. Actualmente la demanda de profesionales calificados en ciencia de datos está creciendo rápidamente y este curso pretende preparar a los estudiantes para enfrentar los desafíos del análisis de datos del mundo real.
 En lugar de cubrir todas las habilidades de R que se puedan necesitar, la idea es construir una base sólida para generar un aprendizaje autónomo. Este curso está diseñado para ayudar a los estudiantes a desarrollar un conjunto de habilidades que incluyen programación, gestión de datos, visualización de datos, organización de archivos, análisis básicos de estadística (modelados) y preparación de documentos reproducibles con RStudio.
