@@ -12,6 +12,7 @@ El curso cubre temas prácticos en computación estadística que incluyen progra
 
 #### Libros
 ["R for data science"](https://r4ds.had.co.nz/)
+
 ["Hands-On Programming with R"](https://rstudio-education.github.io/hopr/)
 
 
