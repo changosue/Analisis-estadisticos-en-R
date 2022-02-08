@@ -10,4 +10,4 @@ El curso cubre temas prácticos en computación estadística que incluyen progra
 
 ### Aquí les dejo unos enlaces que pueden resultar útiles
 Paquetes
-[Listado de paquetes b[asicos](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+[Listado de paquetes básicos](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
