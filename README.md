@@ -10,10 +10,14 @@ El curso cubre temas prácticos en computación estadística que incluyen progra
 
 ### Aquí les dejo unos enlaces que pueden resultar útiles
 
-#### Libros
+#### Usar R
 ["R for data science"](https://r4ds.had.co.nz/)
 
 ["Hands-On Programming with R"](https://rstudio-education.github.io/hopr/)
+
+["An Introduction to R"](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
+
+["R Language definition"](https://cran.r-project.org/doc/manuals/r-release/R-lang.html)
 
 
 #### Paquetes
